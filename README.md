@@ -10,6 +10,8 @@ you should include a link to Firebase url in README.md file.
 second exercise - using components
 
 ---
+fire base link:
+# https://myex1-a0ede.firebaseapp.com/
 
 ## exercise 1 summary:
 ### Create angular2 app:
